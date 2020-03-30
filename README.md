@@ -1,6 +1,8 @@
 ### Description
 unAdmins a player, even if player is offline.
 
+to unadmin someone, just do `uap <UUID>`
+
 ### Building a Jar
 
 1) download src
