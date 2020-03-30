@@ -1,7 +1,7 @@
 ### Description
 unAdmins a player, even if player is offline.
 
-to unadmin someone, just do `uap <UUID>`
+to unadmin someone, just do `uap <UUID>` in the server terminal
 
 ### Building a Jar
 
